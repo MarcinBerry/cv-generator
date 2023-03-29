@@ -1,0 +1,169 @@
+{
+  "name": "Name Surname",
+  "title": "Example Title",
+  "e-mail": "example@mail.com",
+  "phoneNumber": "+48 123 123 123",
+  "experienceSection": {
+    "title": "Experience",
+    "entries": [
+      {
+        "date": "05.2021 - now",
+        "title": "Example job title",
+        "company": "Example company",
+        "list": [
+          "Example description 1",
+          "Example description 2",
+          "Example description 3",
+          "Example description 4",
+          "Example description 5",
+          "Example description 6",
+          "Example description 7"
+        ]
+      },
+      {
+        "date": "06.2020 - 05.2021",
+        "title": "Example job title",
+        "company": "Example company",
+        "list": [
+          "Example description 1",
+          "Example description 2",
+          "Example description 3",
+          "Example description 4",
+          "Example description 5",
+          "Example description 6",
+          "Example description 7"
+        ]
+      }
+    ]
+  },
+  "educationSection": {
+    "title": "Education",
+    "entries": [
+      {
+        "date": "10.2018 - 02.2022",
+        "title": "Example title",
+        "place": "Example university"
+      },
+      {
+        "date": "09.2014 - 05.2018",
+        "title": "Example title",
+        "place": "Example school name"
+      }
+    ]
+  },
+  "mainSkillsSection": {
+    "title": "Main skills",
+    "list": [
+      {
+        "title": "Skill 1",
+        "count": 65
+      },
+      {
+        "title": "Skill 2",
+        "count": 50
+      },
+      {
+        "title": "Skill 3",
+        "count": 40
+      },
+      {
+        "title": "Skill 4",
+        "count": 40
+      },
+      {
+        "title": "Skill 5",
+        "count": 60
+      },
+      {
+        "title": "Skill 6",
+        "count": 30
+      }
+    ]
+  },
+  "technologyStackSection": {
+    "title": "Technology and tools",
+    "list": [
+      {
+        "name": "html5",
+        "href": "https://www.w3.org/html/"
+      },
+      {
+        "name": "css",
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "style": {
+          "height": "3rem",
+          "width": "2.5rem"
+        }
+      },
+      {
+        "name": "graphql",
+        "href": "https://graphql.org/"
+      },
+      {
+        "name": "tailwindcss",
+        "href": "https://tailwindcss.com/",
+        "style": {
+          "width": "3rem"
+        }
+      },
+      {
+        "name": "sass",
+        "href": "https://sass.com/",
+        "style": {
+          "width": "2.5rem",
+          "height": "2.5rem"
+        }
+      },
+      {
+        "name": "node",
+        "href": "https://nodejs.org/en",
+        "style": {
+          "width": "2.75rem",
+          "height": "2.75rem"
+        }
+      },
+      {
+        "name": "npm",
+        "href": "https://www.npmjs.com/",
+        "style": {
+          "width": "3rem"
+        }
+      },
+      {
+        "name": "yarn",
+        "href": "https://yarnpkg.com/",
+        "style": {
+          "width": "2.75rem",
+          "height": "2.75rem"
+        }
+      },
+      {
+        "name": "webpack",
+        "href": "https://webpack.js.org/"
+      },
+      {
+        "name": "postman",
+        "href": "https://www.postman.com/"
+      },
+      {
+        "name": "git",
+        "href": "https://git-scm.com/"
+      },
+      {
+        "name": "github",
+        "href": "https://github.com/"
+      },
+      {
+        "name": "storybook",
+        "href": "https://storybook.js.org/"
+      }
+    ]
+  },
+  "interestSection": {
+    "title": "Interests",
+    "list": ["Interests 1", "Interests 2", "Interests 3", "Interests 4"]
+  },
+  "footer": {
+    "content": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data ProtectionAct of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement withRegulation (EU) 2016/679 of the European Parliament and of the Council of27 April 2016 on the protection of natural persons with regard to theprocessing of personal data and on the free movement of such data, andrepealing Directive 95/46/EC (General Data Protection Regulation)."
+  }
+}
