@@ -3,14 +3,8 @@ interface SkillProps {
   count: number;
 }
 
-export const Skill = ({ count, title }: SkillProps) => (
-  <div className="flex flex-row items-center justify-between w-full space-x-4">
+export const Skill = ({ title }: SkillProps) => (
+  <li className="w-full space-x-4 list-item">
     <p className="font-light font-sm">{title}</p>
-    <div className="h-[15px] rounded-md w-36 border">
-      <div
-        className="h-full bg-white rounded-l"
-        style={{ width: `${count}%` }}
-      ></div>
-    </div>
-  </div>
+  </li>
 );

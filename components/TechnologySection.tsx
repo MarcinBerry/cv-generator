@@ -18,10 +18,10 @@ export const TechnologySection = ({
   list: TechnologyItemData[];
 }) => (
   <LeftSubSection {...{ title }}>
-    <div className="flex flex-row flex-wrap items-center justify-center gap-2 -ml-5">
+    <ul className="flex flex-row flex-wrap items-center justify-between gap-2 list-[square] pl-4 pt-2">
       {list.map((item, index) => (
         <TechnologyItem {...item} key={'tech-' + index} />
       ))}
-    </div>
+    </ul>
   </LeftSubSection>
 );
