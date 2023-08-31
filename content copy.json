@@ -1,0 +1,188 @@
+{
+  "name": "Marcin Bernecki",
+  "title": "Frontend Developer",
+  "e-mail": "berneckimarcin@gmail.com",
+  "phoneNumber": "+48 608 832 277",
+  "experienceSection": {
+    "title": "Experience",
+    "entries": [
+      {
+        "date": "03.2022 - now",
+        "title": "React Frontend Developer",
+        "company": "Monogo sp. z.o.o",
+        "list": [
+          "Working on applications for brands such as: Converse, Merrell, Cat Footwear",
+          "Development of new solutions for Next.js application",
+          "Participation in process of solution analysis",
+          "Participation in Code Reviews",
+          "Self-maintenance of a large codebase",
+          "Optimizing Next.js application in context of Pagespeed, SEO, etc.",
+          "Collaborate effectively with the team in SCRUM driven project",
+          "Implementing UI/UX designs accurately and aesthetically"
+        ]
+      },
+      {
+        "date": "04.2020 - 03.2022",
+        "title": "Sub-inspector in IT department",
+        "company": "Starostwo Powiatowe w Łęcznej",
+        "list": [
+          "Maintaining computer infrastructure",
+          "Administration of network infrastructure and systems of the office",
+          "Implementation of new computer workstations",
+          "Selection of equipment based on the presented requirements and its purchase",
+          "Diagnosing computer hardware and LAN faults",
+          "Administration of the county's website (Wordpress) and the Public Information Bulletin"
+        ]
+      }
+    ]
+  },
+  "educationSection": {
+    "title": "Education",
+    "entries": [
+      {
+        "date": "10.2019 - 02.2023",
+        "title": "IT engineer",
+        "place": "Politechnika Lubelska"
+      },
+      {
+        "date": "09.2014 - 05.2018",
+        "title": "IT technician",
+        "place": "Zespół Szkół nr 1 im. Władysława Grabskiego w Lublinie"
+      }
+    ]
+  },
+  "mainSkillsSection": {
+    "title": "Main skills",
+    "list": [
+      {
+        "title": "React",
+        "count": 70,
+        "url": "https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&link=https%3A%2F%2Freact.dev%2F"
+      },
+      {
+        "title": "NextJS",
+        "count": 60,
+        "url": "https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&link=https%3A%2F%2Fnextjs.org%2F"
+      },
+      {
+        "title": "Typescript",
+        "count": 50,
+        "url": "https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=white&link=https%3A%2F%2Fwww.typescriptlang.org%2F"
+      },
+      {
+        "title": "Javascript",
+        "count": 40,
+        "url": "https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&link=https%3A%2F%2Fwww.javascript.com%2F"
+      },
+      {
+        "title": "CSS",
+        "count": 60,
+        "url": "https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"
+      },
+      {
+        "title": "NodeJS",
+        "count": 30,
+        "url": "https://img.shields.io/badge/NodeJS-026e00?style=for-the-badge&logo=Node.js&logoColor=white&link=https%3A%2F%2Fnodejs.org%2F"
+      }
+    ]
+  },
+  "technologyStackSection": {
+    "title": "Technology and tools",
+    "list": [
+      {
+        "name": "HTML5",
+        "href": "https://www.w3.org/html/",
+        "url": "https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fwww.w3.org%2Fhtml%2F"
+      },
+      {
+        "name": "CSS",
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "style": {
+          "height": "3rem",
+          "width": "2.5rem"
+        },
+        "url": "https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"
+      },
+      {
+        "name": "Graphql",
+        "href": "https://graphql.org/",
+        "url": "https://img.shields.io/badge/Graphql-fff?style=for-the-badge&logo=Graphql&logoColor=e10098&link=https%3A%2F%2Fgraphql.org%2F"
+      },
+      {
+        "name": "Tailwindcss",
+        "href": "https://tailwindcss.com/",
+        "style": {
+          "width": "3rem"
+        },
+        "url": "https://img.shields.io/badge/TAILWINDCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https%3A%2F%2Ftailwindcss.com%2F"
+      },
+      {
+        "name": "SASS",
+        "href": "https://sass.com/",
+        "style": {
+          "width": "2.5rem",
+          "height": "2.5rem"
+        },
+        "url": "https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=SASS&logoColor=white&link=https%3A%2F%2Fsass-lang.com%2F"
+      },
+      {
+        "name": "Node.js",
+        "href": "https://nodejs.org/en",
+        "style": {
+          "width": "2.75rem",
+          "height": "2.75rem"
+        },
+        "url": "https://img.shields.io/badge/NodeJS-026e00?style=for-the-badge&logo=Node.js&logoColor=white&link=https%3A%2F%2Fnodejs.org%2F"
+      },
+      {
+        "name": "npm",
+        "href": "https://www.npmjs.com/",
+        "style": {
+          "width": "3rem"
+        },
+        "url": "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https%3A%2F%2Fwww.npmjs.com%2F"
+      },
+      {
+        "name": "Yarn",
+        "href": "https://yarnpkg.com/",
+        "style": {
+          "width": "2.75rem",
+          "height": "2.75rem"
+        },
+        "url": "https://img.shields.io/badge/Yarn-368FB9?style=for-the-badge&logo=Yarn&logoColor=white&link=https%3A%2F%2Fyarnpkg.com%2F"
+      },
+      {
+        "name": "Webpack",
+        "href": "https://webpack.js.org/",
+        "url": "https://img.shields.io/badge/webpack-2D4468?style=for-the-badge&logo=webpack&logoColor=white&link=https%3A%2F%2Fwebpack.js.org%2F"
+      },
+      {
+        "name": "Postman",
+        "href": "https://www.postman.com/",
+        "url": "https://img.shields.io/badge/postman-fff?style=for-the-badge&logo=postman&link=https%3A%2F%2Fpostman.com%2F"
+      },
+      {
+        "name": "Git",
+        "href": "https://git-scm.com/",
+        "url": "https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git&link=https%3A%2F%2Fgit-scm.com%2F"
+      },
+      {
+        "name": "Github",
+        "href": "https://github.com/",
+        "url": "https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&link=https%3A%2F%2Fgithub.com%2F"
+      },
+      {
+        "name": "Storybook",
+        "href": "https://storybook.js.org/",
+        "url": "https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white&link=https%3A%2F%2Fstorybook.js.org%2F"
+      }
+    ]
+  },
+  "interestSection": {
+    "title": "Interests",
+    "list": ["Automotive", "Music", "Sport", "Technology"]
+  },
+  "footer": {
+    "content": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data ProtectionAct of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement withRegulation (EU) 2016/679 of the European Parliament and of the Council of27 April 2016 on the protection of natural persons with regard to theprocessing of personal data and on the free movement of such data, andrepealing Directive 95/46/EC (General Data Protection Regulation)."
+  }
+}

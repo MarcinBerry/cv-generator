@@ -8,6 +8,8 @@ export interface TechnologyItemData {
     width?: string | number;
     height?: string | number;
   };
+  url?: string;
+  background?: string;
 }
 
 export const TechnologySection = ({
@@ -18,7 +20,7 @@ export const TechnologySection = ({
   list: TechnologyItemData[];
 }) => (
   <LeftSubSection {...{ title }}>
-    <ul className="flex flex-row flex-wrap items-center justify-between gap-2 list-[square] pl-4 pt-2">
+    <ul className="flex flex-row flex-wrap items-center justify-between list-[square]">
       {list.map((item, index) => (
         <TechnologyItem {...item} key={'tech-' + index} />
       ))}

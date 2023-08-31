@@ -1,21 +1,10 @@
-// import Image from 'next/image';
+/* eslint-disable @next/next/no-img-element */
 import Link from 'next/link';
 
-// import { technologyToImage } from './ImagesMapper';
 import { TechnologyItemData } from './TechnologySection';
 
-// const defaultStyle = 'w-12 h-12';
-
-export const TechnologyItem = ({ href, name }: TechnologyItemData) => (
-  <li className="w-[100px] list-item">
-    <Link href={href}>
-      <p className="">{name}</p>
-      {/* <Image
-        src={technologyToImage[name] ?? ''}
-        alt="icon"
-        style={style}
-        className={!style ? defaultStyle : ''}
-      /> */}
-    </Link>
+export const TechnologyItem = ({ href, url }: TechnologyItemData) => (
+  <li className="w-[115px] h-7 flex justify-start items-center">
+    <Link href={href}>{url && <img src={url} alt="" className="" />}</Link>
   </li>
 );
